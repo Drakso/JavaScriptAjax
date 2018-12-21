@@ -1,0 +1,31 @@
+{
+  "trainer": "Dragan Gelevski",
+  "assistant": "Dejan Jovanov",
+  "students": [
+    {"name": "Bob",
+	 "last": "Bobsky",
+	 "grade": 5},
+    {"name": "Samantha",,
+	 "last": "Whey",
+	 "grade": 3},
+    {"name": "Chris",
+	 "last": "Brown",
+	 "grade": 2},
+    {"name": "Jill",
+	 "last": "Whyomi",
+	 "grade": 1},
+    {"name": "Greg",
+	 "last": "Trotsky",
+	 "grade": 5},
+    {"name": "Bill",
+	 "last": "Wilson",
+	 "grade": 4},
+    {"name": "Anne",
+	 "last": "Lee",
+	 "grade": 3},
+    {"name": "Xi",
+	 "last": "Ping",
+	 "grade": 5}
+  ],
+  "academy": "Code"
+}
